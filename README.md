@@ -2,3 +2,6 @@
 
 ## Foundations
 https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Foundations
+
+## Patterns
+https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns
