@@ -40,3 +40,25 @@ iOS 15, iPadOS 15, watchOS 8부터 Core Location은 사용자가 앱이 필요�
 - Adjust the button’s corner radius
 
 위치 버튼에 대한 신뢰도와 인식성을 위해 버튼의 다른 시각적 요소는 커스터마이징 할 수 없다. (적당히 커스터마이징 하라는 얘기인듯) 가독성 없거나, 버튼의 글자가 버튼에 잘 맞지 않는 등의 문제발생이 시스템에 의해 지속적으로 확인된다면 사용자가 위치 버튼을 탭해도 시스템이 그것으로의 접근을 막을 수도 있으니 주의하라.
+
+## Pre-alert screens
+
+이때, 화면에 단 하나의 버튼만 추가하며 해당 버튼이 system alert을 켤 것임을 확실히 해야 한다. 애매한 단어가 아니라 **Continue 혹은 Next** 와 같은 타이틀을 사용해서 그것이 system alert를 켠다는 것을 확실히 하라.
+
+사용자가 시스템 alert을 보지 않고 떠날 수 있게 해주는 **cancel, X** 버튼 등을 제공하지 마라
+
+## Tracking requests
+
+앱 추적은 예민한 문제이기 때문에 커스텀 스크린을 통해 그것의 장점에 대해 충분히 설명해주는 것이 좋을 수 있다. 이때, 사용자가 오해할만한 커스텀 스크린을 system alert보다 먼저 보여주지 마라. (그냥 이 문제에 대해서는 커스텀 스크린을 만들지 말라는 것 같음)
+
+## Protecting data
+
+사용자의 정보를 지키는 것은 가장 중요한 일이다. system-provided security technologies when you need to store information locally, authorize people for specific operations, and transport information across a network 를 통해 사용자의 정보를 더욱 효과적으로 지킬 수 있다.
+
+암호만으로 사용자를 인증하는 걸 피해라. TouchID와 같은 걸 써라
+
+Keychain에 민감한 정보를 저장해라
+
+절대로 암호나 다른 보안 사항을 plain text 파일로 저장하지 마라
+
+웬만하면 커스텀 사용자인증을 개발하지 마라 ~~(어차피 못해…)~~
