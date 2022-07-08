@@ -8,3 +8,6 @@ https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/DragA
 
 ## Entering data
 https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/EnteringData
+
+## Launching
+https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/Launching
