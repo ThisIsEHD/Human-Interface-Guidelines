@@ -16,4 +16,4 @@ https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/Launc
 https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/Loading
 
 ## Managing accounts
-https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/ManaginAccounts
+https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/ManagingAccounts
