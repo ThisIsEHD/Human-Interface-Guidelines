@@ -11,3 +11,6 @@ https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/Enter
 
 ## Launching
 https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/Launching
+
+## Loading
+https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/Loading
