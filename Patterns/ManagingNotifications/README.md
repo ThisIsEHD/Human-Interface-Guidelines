@@ -24,6 +24,8 @@
 - Active(기본값). 좋아하는 팀의 스코어 업데이트처럼 알림이 왔을 때 좋아할 만한 정보
 - Time Sensitive. 계정보안이나 배달과 같이 사용자의 즉각적인 관심이 필요한 정보
 - Critical. 건강이나 안전에 관련된 즉각적인 정보. 이건 아주 적고 정부나 공공기관으로 부터의 긴급알림에 쓰이지 내가 쓸 일은 없을 듯.
+![image](https://user-images.githubusercontent.com/107873842/178221062-7137445d-0aaf-41ec-85fb-f60b2dd73586.jpeg)
+
 
 ## Best practices
 
