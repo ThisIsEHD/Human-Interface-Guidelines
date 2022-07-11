@@ -17,3 +17,6 @@ https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/Loadi
 
 ## Managing accounts
 https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/ManagingAccounts
+
+## Managing notifications
+https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/ManagingNotifications
