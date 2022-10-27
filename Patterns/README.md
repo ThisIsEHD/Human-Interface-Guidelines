@@ -9,6 +9,9 @@ https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/DragA
 ## Entering data
 https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/EnteringData
 
+## Going full screen
+https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/GoingFullScreen
+
 ## Launching
 https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/Launching
 
@@ -21,5 +24,5 @@ https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/Manag
 ## Managing notifications
 https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/ManagingNotifications
 
-##Modality
+## Modality
 https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/Modality
