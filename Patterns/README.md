@@ -26,3 +26,6 @@ https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/Manag
 
 ## Modality
 https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/Modality
+
+## Onboarding
+https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/Onboarding
