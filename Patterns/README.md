@@ -20,3 +20,6 @@ https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/Manag
 
 ## Managing notifications
 https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/ManagingNotifications
+
+##Modality
+https://github.com/ThisIsEHD/Human-Interface-Guidelines/tree/main/Patterns/Modality
