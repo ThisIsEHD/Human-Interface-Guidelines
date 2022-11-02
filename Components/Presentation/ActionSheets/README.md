@@ -1,4 +1,4 @@
-# Action sheet
+# Action sheets
 
 액션 시트는 사용자가 시작한 작업과 관련된 선택 사항을 표시.
 
